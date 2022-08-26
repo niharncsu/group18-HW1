@@ -1,0 +1,1 @@
+This directory has all the files that contain the code for the application.
