@@ -1,0 +1,15 @@
+#What is gitignore?
+#When you’re working in your copy, Git watches every file in and considers it in three ways:
+
+#Tracked: You’ve already staged or committed the file.
+#Untracked: You’ve not staged or committed.
+#Ignored: You’ve explicitly told Git to ignore the file(s).
+#The .gitignore file tells Git which files to ignore when committing your project to the GitHub repository. gitignore is located in the root directory of your repo.
+
+
+#Why do I need to ignore files in Git?
+#You may want to ignore certain files for multiple reasons:
+
+#The files contain sensitive data.
+#The files are system specific and do not need to exist on every machine’s copy.
+#Excluding the files maintains system security rules and privileges. (Remember, Git repos only contain the files necessary to get tech support—not to share the entire software.)
