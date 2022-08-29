@@ -1,1 +1,1 @@
-####This file contains the instructions for installing a project. It contains information about the softwares, dependencies and versions needed in order to run an application. It lets developer know the prior settings across all the systems.
+This file contains the instructions for installing a project. It contains information about the softwares, dependencies and versions needed in order to run an application. It lets developer know the prior settings across all the systems.
