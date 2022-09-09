@@ -1,1 +1,6 @@
-This file contains the instructions for installing a project. It contains information about the softwares, dependencies and versions needed in order to run an application. It lets developer know the prior settings across all the systems.
+The following steps can be installed to install the project
+
+1. Install Python 3.8
+2. Install python3 pip
+3. Install required libraries
+`pip install -r requirements.txt`
