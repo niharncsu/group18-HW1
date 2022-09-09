@@ -1,15 +1,16 @@
-#Installing the Project
+# Installing the Project
 The following steps can be done to install the python.
 
 1. Install Python 3.8
 2. Install python3 pip
-#Running 
-* ####Clone the repository:
+
+# Running 
+* #### Clone the repository:
     `$ git clone https://github.com/niharncsu/group18-HW1.git
 ` 
-* ####Change working directory to the repository:
+* #### Change working directory to the repository:
     `$ cd group18-HW1`
-* ####Install the packages according to the configuration file requirements.txt:
+* #### Install the packages according to the configuration file requirements.txt:
     `$ pip install -r requirements.txt`
 
 For more information, please follow these links:
