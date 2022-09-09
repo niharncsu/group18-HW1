@@ -10,7 +10,7 @@ The following steps can be done to install the python.
 ` 
 * #### Change working directory to the repository:
     `$ cd group18-HW1`
-* #### Install the packages according to the configuration file requirements.txt:
+* #### Install the packages according to the requirements.txt file:
     `$ pip install -r requirements.txt`
 
 For more information, please follow these links:
