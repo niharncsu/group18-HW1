@@ -10,7 +10,7 @@ This repository contains the code for two functionalities:
 1. Increment a number
 2. Add a number to all elements of a list. 
 
-The repository serves as the Homework 1 submission for CSC522 - Software Engineering at NC State University.
+The repository serves as the Homework 1 submission for CSC510 - Software Engineering at NC State University.
 
 ## Installation
 Refer to the [Installation Steps](https://github.com/niharncsu/group18-HW1/blob/main/INSTALL.md) to try it out.
