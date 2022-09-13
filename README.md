@@ -6,7 +6,7 @@
 [![Python 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![GitHub repo size](https://img.shields.io/github/repo-size/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/)
 [![GitHub contributors](https://img.shields.io/github/contributors/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/graphs/contributors/)
-
+[![GitHub issues](https://img.shields.io/github/issues/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/issues)
 
 ## Introduction 
 ---
