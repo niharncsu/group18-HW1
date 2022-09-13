@@ -7,6 +7,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/)
 [![GitHub contributors](https://img.shields.io/github/contributors/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/niharncsu/group18-HW1)](https://github.com/niharncsu/group18-HW1/pulls)
 
 ## Introduction 
 ---
