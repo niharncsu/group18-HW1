@@ -4,7 +4,7 @@
 [![Build](https://github.com/niharncsu/group18-HW1/actions/workflows/build.yml/badge.svg)](https://github.com/niharncsu/group18-HW1/actions/workflows/build.yml)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=niharncsu/group18-HW1)
+![GitHub repo size](https://img.shields.io/github/repo-size/niharncsu/group18-HW1)
 
 ## Introduction 
 ---
